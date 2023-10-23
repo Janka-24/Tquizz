@@ -16,11 +16,11 @@ Tquizz est un jeu passionnant conçu spécialement pour la communauté tamoule. 
 
 ## Comment jouer
 
-1. Téléchargez l'application Tquizz depuis votre boutique d'applications préférée.
+1. Se rendre sur Tquizz.com
 
 2. Inscrivez-vous ou connectez-vous avec votre compte.
 
-3. Sélectionnez un niveau de difficulté et commencez à jouer.
+3. Sélectionnez une rubrique et un niveau de difficulté et commencez à jouer.
 
 4. Regardez attentivement les indices et devinez le nom du film.
 
